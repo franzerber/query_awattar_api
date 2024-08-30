@@ -1,0 +1,1 @@
+# query_awattar_api
